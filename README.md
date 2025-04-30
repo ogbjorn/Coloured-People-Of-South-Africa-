@@ -1,4 +1,3 @@
-# Coloured-People-Of-South-Africa-
 <!DOCTYPE html>
 <html lang="en">
 <head>
